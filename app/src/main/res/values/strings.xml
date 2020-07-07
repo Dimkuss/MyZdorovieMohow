@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyZdorovie</string>
+    <string name="title">Комплексная система мониторинга здоровья</string>
+    <string name="surnameDev">Мохов</string>
+    <string name="name_sur">Ваше ФИО</string>
+    <string name="age">Ваш возраст</string>
+    <string name="save">Сохранить</string>
+    <string name="pressure">Показатели давления</string>
+    <string name="life_status">Жизненные показатели</string>
+    <string name="upPres">Верхнее давление</string>
+    <string name="downPres">Нижне давление</string>
+    <string name="pulse">Пульс</string>
+    <string name="tahikardya">Тахикардия</string>
+    <string name="localDate">Дата замера</string>
+    <string name="height">Ваш вес</string>
+    <string name="steps">Колличество шагов</string>
+    <string name="logo">logo</string>
+</resources>
